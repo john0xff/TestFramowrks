@@ -1,4 +1,4 @@
-package junit.list;
+package junit.naive.list;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

@@ -1,4 +1,4 @@
-package junit.list;
+package junit.naive.list;
 
 public class ListIndexOutOfBoundsException extends Exception
 {

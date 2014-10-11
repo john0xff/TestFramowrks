@@ -1,4 +1,4 @@
-package junit.list;
+package junit.naive.list;
 
 import java.util.Iterator;
 
