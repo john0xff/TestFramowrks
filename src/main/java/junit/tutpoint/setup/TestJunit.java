@@ -1,4 +1,4 @@
-package tutpoint.setup;
+package junit.tutpoint.setup;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

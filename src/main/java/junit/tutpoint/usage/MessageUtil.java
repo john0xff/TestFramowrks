@@ -1,4 +1,4 @@
-package tutpoint.usage;
+package junit.tutpoint.usage;
 
 /*
  * This class prints the given message on console.

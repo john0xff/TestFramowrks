@@ -1,4 +1,4 @@
-package tutpoint.usage;
+package junit.tutpoint.usage;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
