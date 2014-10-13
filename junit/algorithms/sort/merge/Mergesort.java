@@ -1,4 +1,4 @@
-package com.phoenxjcam.sort.merge;
+package algorithms.sort.merge;
 public class Mergesort
 {
 	private int[] numbers;

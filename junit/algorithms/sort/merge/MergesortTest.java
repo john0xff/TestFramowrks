@@ -1,4 +1,4 @@
-package com.phoenxjcam.sort.merge;
+package algorithms.sort.merge;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 

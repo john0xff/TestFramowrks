@@ -15,7 +15,7 @@ public class MainResults
 		{
 			System.out.println(failure.toString());
 		}
-		
+
 		System.out.println(result.wasSuccessful());
 	}
 
