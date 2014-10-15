@@ -10,7 +10,7 @@ public class TestJunit1
 	String message = "Robert";
 	MessageUtil messageUtil = new MessageUtil(message);
 
-	@Test
+	@Test()
 	public void testPrintMessage()
 	{
 		System.out.println("Inside testPrintMessage()");

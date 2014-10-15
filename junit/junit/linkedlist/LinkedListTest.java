@@ -17,6 +17,13 @@ public class LinkedListTest
 		LinkedList<Integer> list = new LinkedList<Integer>(Arrays.asList(objects));
 		assertEquals(4, list.size());
 	}
+	
+	@Test(expected = NullPointerException.class)
+	public void exceptionExpected()
+	{
+		LinkedList<Integer> list = null;
+		list.get(2);
+	}
 
 	@Test
 	public void testIterator()

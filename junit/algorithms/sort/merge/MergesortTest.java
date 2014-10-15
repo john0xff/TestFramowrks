@@ -49,10 +49,11 @@ public class MergesortTest
 
 	}
 
+	//@Test(timeout = 2000)
 	@Test
 	public void itWorksRepeatably()
 	{
-		for (int i = 0; i < 200; i++)
+		for (int i = 0; i < 2000; i++)
 		{
 			numbers = new int[SIZE];
 			Random generator = new Random();
