@@ -1,4 +1,4 @@
-package junit.tutpoint.employee;
+package junit.tutpoint.writing.tests;
 
 public class EmpBusinessLogic
 {

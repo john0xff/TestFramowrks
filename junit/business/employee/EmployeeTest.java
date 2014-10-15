@@ -33,7 +33,7 @@ public class EmployeeTest
 	@Test
 	public void annualSalary()
 	{
-		Integer annual = (12 * 4800) + 101;
+		Integer annual = (12 * 4800) + 1000;
 		
 		assertEquals(annual, employeeLogic.calculateAnnualSalary());
 	}

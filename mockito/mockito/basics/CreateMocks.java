@@ -105,11 +105,11 @@ public class CreateMocks
 
 	public static void main(String[] args)
 	{
-
+		stubCallendar();
 		// listWithAnyArguments();
 		// stubForSequentialCalls();
 		// stubMethodToThrowException();
 		// verifyStubbedMethod();
-		stubbedMethodFrequency();
+		// stubbedMethodFrequency();
 	}
 }
